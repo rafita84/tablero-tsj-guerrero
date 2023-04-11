@@ -1,0 +1,37 @@
+{
+    "inter": {
+        "normal": "C:\\Sites\\tablero\\storage\\fonts\/inter_normal_4c1c39b2d60dc6de8a3bc272ce3fe7dc",
+        "500": "C:\\Sites\\tablero\\storage\\fonts\/inter_500_73384d6e47fd66bbc719b75497af932b",
+        "600": "C:\\Sites\\tablero\\storage\\fonts\/inter_600_5fa3cee4db6b0338a4ce38a93c93ddd3",
+        "bold": "inter_bold_c57a050bb9f74fe1522e9f687ba11188"
+    },
+    "poppins": {
+        "300_italic": "C:\\Sites\\tablero\\storage\\fonts\/poppins_300_italic_7b4f1cfe65e96a5a4c603a5cf1d6f896",
+        "italic": "C:\\Sites\\tablero\\storage\\fonts\/poppins_italic_1ad90e53438b9573bebb0fe37dfde87c",
+        "500_italic": "C:\\Sites\\tablero\\storage\\fonts\/poppins_500_italic_0b33503413d15e2b0c2db57c393906ed",
+        "600_italic": "C:\\Sites\\tablero\\storage\\fonts\/poppins_600_italic_bd7beee89dec36870459c02bb03bc74e",
+        "bold_italic": "C:\\Sites\\tablero\\storage\\fonts\/poppins_bold_italic_812d90b721ed99ea43d47c5ee855951d",
+        "300": "C:\\Sites\\tablero\\storage\\fonts\/poppins_300_4a08cccbc2911e3077321a0298f4e093",
+        "normal": "C:\\Sites\\tablero\\storage\\fonts\/poppins_normal_442dffd12abdf0df26c14405d3f49bfa",
+        "500": "C:\\Sites\\tablero\\storage\\fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "600": "C:\\Sites\\tablero\\storage\\fonts\/poppins_600_272b14b77a21dc5827f4570eff556c8f",
+        "bold": "poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_eee94aa42bf5519a9011eca6cb7f39f3"
+    },
+    "font awesome 6 free": {
+        "normal": "C:\\Sites\\tablero\\storage\\fonts\/font_awesome_6_free_normal_af136a3b123426484a55fa838c677443",
+        "900": "font_awesome_6_free_900_020ad2320123ecff8602b1657064b220"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_eee94aa42bf5519a9011eca6cb7f39f3"
+    },
+    "font awesome 5 free": {
+        "900": "C:\\Sites\\tablero\\storage\\fonts\/font_awesome_5_free_900_020ad2320123ecff8602b1657064b220",
+        "normal": "font_awesome_5_free_normal_af136a3b123426484a55fa838c677443"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_3b8dbfbc396eb346c669ab964b5cae97"
+    }
+}
